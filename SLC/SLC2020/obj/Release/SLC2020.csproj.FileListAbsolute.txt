@@ -1,0 +1,16 @@
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\obj\Release\SLC2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\obj\Release\SLC2020.csproj.CoreCompileInputs.cache
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\bin\Release\SCL2022.exe.config
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\bin\Release\SCL2022.exe
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\bin\Release\SCL2022.pdb
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\obj\Release\SLC2020.csproj.AssemblyReference.cache
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\obj\Release\SCL2022.exe
+C:\Users\J3RRY\Desktop\SLC\SLC\SLC2020\obj\Release\SCL2022.pdb
+E:\SLC\SLC\SLC2020\bin\Release\SMC.exe.config
+E:\SLC\SLC\SLC2020\bin\Release\SMC.exe
+E:\SLC\SLC\SLC2020\bin\Release\SMC.pdb
+E:\SLC\SLC\SLC2020\obj\Release\SLC2020.csproj.AssemblyReference.cache
+E:\SLC\SLC\SLC2020\obj\Release\SLC2020.csproj.SuggestedBindingRedirects.cache
+E:\SLC\SLC\SLC2020\obj\Release\SLC2020.csproj.CoreCompileInputs.cache
+E:\SLC\SLC\SLC2020\obj\Release\SMC.exe
+E:\SLC\SLC\SLC2020\obj\Release\SMC.pdb
