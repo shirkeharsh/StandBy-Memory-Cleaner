@@ -10,4 +10,5 @@ SAFE TO USE WITH EVERY ANTI- CHEAT
 ## Copy 'SMC' to Local Disck C
 ## Run cmd as adminstrator
 Copy and Paste the command given below
+
 ``` SCHTASKS /CREATE /ru system /SC MINUTE /TN "Memory Cleaner" /TR "C:\SMC.exe" /MO 5```
