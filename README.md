@@ -8,7 +8,7 @@
 >SAFE TO USE WITH EVERY ANTI- CHEAT. 
 
 ## USAGE
->Copy 'SMC' to Local Disck C.
+>Copy 'SMC' to Local Disk C.
 >
 >Run cmd as adminstrator.
 >
